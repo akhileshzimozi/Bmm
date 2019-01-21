@@ -9,7 +9,7 @@
 </head>
 <body>
 
-<div class="container">
+<div class="container"> 
   <div class="jumbotron">
     <h1>Bharath Mini Mart</h1>      
     <p>Android Adhoc Build Release</p>
