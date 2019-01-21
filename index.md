@@ -23,19 +23,7 @@
       </div>
     </div>
      
-     <div class="panel-group">
-    <div class="panel panel-default">
-      <div class="panel-heading">11th Jan 2019 BMM() V1.0.3</div>
-      <div class="panel-body">
-      <a class="btn btn-default" href="https://zingsquares-my.sharepoint.com/:f:/g/personal/akhilesh_singh_zimozi_co/EsaMNUuvNo5MsgaLDBd0lxwBEGigSrN54p8EfFhiUazXRA?e=Km0yNo">Android Build Installer</a>
-
-      </div>
-    </div>
-    
-   
-     
-      
-</div>
+  
 
 </body>
 </html>
